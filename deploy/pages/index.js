@@ -33,14 +33,14 @@ const Index = () => (
         <ParallaxVideo />
         <Services serviceClassName="service-single" />
         <Overview />
-        <Testimonials />
+        {/*<Testimonials />
         <Counters />
-        <Team />
+        <Team /> */}
         <Screenshots className="bg-grey" />
         <Support />
-        <Subscribe />
+        {/*<Subscribe />
         <Blog />
-        <Pricing className="bg-grey" />
+        <Pricing className="bg-grey" /> */}
         <Contact />
         <Footer />
         <ToTop />

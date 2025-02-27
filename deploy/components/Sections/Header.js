@@ -90,18 +90,6 @@ const Header = (props) => {
                                     </li>
                                     
                                     <li className="nav-item">
-                                        <Link href="/#pricing" className="nav-link js-scroll-trigger"> 
-                                            <span>Pricing</span>
-                                        </Link>
-                                    </li>
-                                    
-                                    <li className="nav-item">
-                                        <Link href="/blog" className="nav-link js-scroll-trigger">
-                                            <span>Blog</span>
-                                        </Link>
-                                    </li>
-                                    
-                                    <li className="nav-item">
                                         <Link href="/contact" className={props.nav !== undefined && props.nav==="contact" ? 'nav-link js-scroll-trigger active' : 'nav-link js-scroll-trigger'}>
                                             <span>Contact</span>
                                         </Link>
