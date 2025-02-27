@@ -57,7 +57,7 @@ const Screenshots = (props) => {
                             >
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-1.jpg">
+                                    <a href="/images/vestly-home.jpg">
                                         <img src="/images/screenshots/screenshot-1.jpg" alt="" />
                                     </a>
                                 </SwiperSlide>

@@ -17,9 +17,9 @@ const ParallaxVideo = () => {
 
     return (
         <>
-            <ModalVideo channel='youtube' videoId="hs1HoLs4SD0" autoplay isOpen={isOpen} onClose={() => setOpen(false)} />
+            <ModalVideo channel='youtube' videoId="ceMmmVnNpJY" autoplay isOpen={isOpen} onClose={() => setOpen(false)} />
             
-            <section id="parallax-video" className="parallax" data-image="/images/parallax/video.jpg" ref={parallax}>
+            <section id="parallax-video" className="parallax" data-image="/images/parallax/vestlyvid.png" ref={parallax}>
         
                 {/* <!-- Overlay --> */}
                 <div className="overlay" />
@@ -35,7 +35,7 @@ const ParallaxVideo = () => {
                             <a onClick={(e)=> {
                                 e.preventDefault();
                                 return setOpen(true)
-                            }} href="#" data-rel="lightcase" className="play-btn">
+                            }} href="https://www.youtube.com/watch?v=ceMmmVnNpJY" data-rel="lightcase" className="play-btn">
                                 <i className="fas fa-play"></i>
                             </a>
 
