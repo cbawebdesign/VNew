@@ -27,9 +27,7 @@ export default class Footer extends Component {
 									<p className="footer-logo">
 										<img src="/images/logo-white.png" alt="Naxos" data-rjs="2" />
 									</p>
-									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.
-									</p>
+								
 									
 									{/* <!-- Social links --> */}
 									<div className="footer-social">

@@ -20,7 +20,7 @@ const Screenshots = (props) => {
 						
 						<div className="section-title text-center">
 							<h3>App Screenshots</h3>
-							<p>Morbi velit leo, sodales in purus eu, pretium accumsan nunc. Praesent eu diam ut ante consequat euismod.</p>
+							<p>Check out some screenshots of the Vestly mobile app!</p>
 						</div>
 						
 					</Col>
@@ -55,55 +55,53 @@ const Screenshots = (props) => {
                                 }}
                                 modules={[Autoplay, Pagination]}
                             >
-
-                                <SwiperSlide className="item">
-                                    <a href="/images/vestly-home.jpg">
-                                        <img src="/images/screenshots/screenshot-1.jpg" alt="" />
+                                 <SwiperSlide className="item">
+                                    <a href="/images/screenshots/login.PNG">
+                                        <img src="/images/screenshots/login.PNG" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-2.jpg">
-                                        <img src="/images/screenshots/screenshot-2.jpg" alt="" />
+                                    <a href="/images/screenshots/nvda/png">
+                                        <img src="/images/screenshots/nvda.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-3.jpg">
-                                        <img src="/images/screenshots/screenshot-3.jpg" alt="" />
+                                    <a href="/images/screenshots/leaderboard.png">
+                                        <img src="/images/screenshots/leaderboard.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-4.jpg">
-                                        <img src="/images/screenshots/screenshot-4.jpg" alt="" />
+                                    <a href="/images/screenshots/news.PNG">
+                                        <img src="/images/screenshots/news.PNG" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-5.jpg">
-                                        <img src="/images/screenshots/screenshot-5.jpg" alt="" />
+                                    <a href="/images/screenshots/inspiration.PNG">
+                                        <img src="/images/screenshots/inspiration.PNG" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-6.jpg">
-                                        <img src="/images/screenshots/screenshot-6.jpg" alt="" />
+                                    <a href="/images/screenshots/rocket.PNG">
+                                        <img src="/images/screenshots/rocket.PNG" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-7.jpg">
-                                        <img src="/images/screenshots/screenshot-7.jpg" alt="" />
+                                    <a href="/images/screenshots/prize.png">
+                                        <img src="/images/screenshots/prize.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-8.jpg">
-                                        <img src="/images/screenshots/screenshot-8.jpg" alt="" />
+                                    <a href="/images/screenshots/prize3.png">
+                                        <img src="/images/screenshots/prize3.png" alt="" />
                                     </a>
                                 </SwiperSlide>
-
                             </Swiper>
                         </SRLWrapper>
 

@@ -14,7 +14,7 @@ const Support = (props) => {
 						
 						<div className="section-title text-center">
 							<h3>Frequently Asked Questions</h3>
-							<p>Cras fringilla, lectus sed ullamcorper fringilla. Massa ex accumsan odio, quis iaculis justo magna quis tortor.</p>
+							<p>Have a question about Vestly? Check here first!</p>
 						</div>
 						
 					</Col>
@@ -30,15 +30,12 @@ const Support = (props) => {
 							<Accordion.Item eventKey="0">
 
 								<Accordion.Header as="h5">
-									Can I see Naxos in action before purchasing it? 			        	
+									Is Vestly free to use? 			        	
 								</Accordion.Header>
 
 								<Accordion.Body>
 									<p>
-										Nam erat orci, dictum eu iaculis a, scelerisque commodo risus. 
-										Mauris eu egestas ipsum. In hac habitasse platea dictumst. 
-										Duis in consequat est. Sed feugiat, ante in finibus ullamcorper, 
-										felis sem porta orci, sed pretium nibh nunc a tellus.
+										Yes, Vestly is completely free to download and play, and is available on both the App Store and Google Play store.
 									</p>
 								</Accordion.Body>
 								
@@ -48,15 +45,12 @@ const Support = (props) => {
 							<Accordion.Item eventKey="1">
 
 								<Accordion.Header as="h5">
-									I've got older Mac. Is Naxos compatible with it? 			        	
+									How does trading work on Vestly? 			        	
 								</Accordion.Header>
 
 								<Accordion.Body>
 									<p>
-										Nam erat orci, dictum eu iaculis a, scelerisque commodo risus. 
-										Mauris eu egestas ipsum. In hac habitasse platea dictumst. 
-										Duis in consequat est. Sed feugiat, ante in finibus ullamcorper, 
-										felis sem porta orci, sed pretium nibh nunc a tellus.
+										Vestly simulates real-world stock trading using live market data, allowing you to buy and sell stocks just like in a real brokerage account.
 									</p>
 								</Accordion.Body>
 								
@@ -66,15 +60,12 @@ const Support = (props) => {
 							<Accordion.Item eventKey="2">
 
 								<Accordion.Header as="h5">
-									What are the requirements for using Naxos?			        	
+									Do I need prior stock market experience to play?			        	
 								</Accordion.Header>
 
 								<Accordion.Body>
 									<p>
-										Nam erat orci, dictum eu iaculis a, scelerisque commodo risus. 
-										Mauris eu egestas ipsum. In hac habitasse platea dictumst. 
-										Duis in consequat est. Sed feugiat, ante in finibus ullamcorper, 
-										felis sem porta orci, sed pretium nibh nunc a tellus.
+										No, Vestly is designed for both beginners and experienced traders, and offers a risk-free way to learn about trading and investing while giving you the motivation of friendly competition.
 									</p>
 								</Accordion.Body>
 								
@@ -84,15 +75,14 @@ const Support = (props) => {
 							<Accordion.Item eventKey="3">
 
 								<Accordion.Header as="h5">
-									How does Naxos handle my privacy? 			        	
+									What can I win?		        	
 								</Accordion.Header>
 
 								<Accordion.Body>
 									<p>
-										Nam erat orci, dictum eu iaculis a, scelerisque commodo risus. 
-										Mauris eu egestas ipsum. In hac habitasse platea dictumst. 
-										Duis in consequat est. Sed feugiat, ante in finibus ullamcorper, 
-										felis sem porta orci, sed pretium nibh nunc a tellus.
+										Prizes vary by competition. For user-hosted games you can win amounts of Vestly Tokens which
+										can be redeemed for various prizes such as VTFs, supplemental videos, subscriptions, etc.
+										 Sponsored games will have their special prizes listed in the game description.
 									</p>
 								</Accordion.Body>
 								
@@ -102,15 +92,13 @@ const Support = (props) => {
 							<Accordion.Item eventKey="4">
 
 								<Accordion.Header as="h5">
-									What is Naxos privacy policy?  			        	
+									Is Vestly available outside the U.S.?  			        	
 								</Accordion.Header>
 
 								<Accordion.Body>
 									<p>
-										Nam erat orci, dictum eu iaculis a, scelerisque commodo risus. 
-										Mauris eu egestas ipsum. In hac habitasse platea dictumst. 
-										Duis in consequat est. Sed feugiat, ante in finibus ullamcorper, 
-										felis sem porta orci, sed pretium nibh nunc a tellus.
+										Availability may vary by country. Check the App Store or Google Play store to see if 
+										Vestly is available in your region.
 									</p>
 								</Accordion.Body>
 								

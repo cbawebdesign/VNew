@@ -24,7 +24,7 @@ const Contact = (props) => {
 						
 						<div className="section-title text-center">
 							<h3>Get In Touch</h3>
-							<p>Nullam hendrerit massa quis dui egestas, id scelerisque felis rutrum. Etiam sem nibh, auctor sed, pharetra congue.</p>
+							<p>We value our user feedback.</p>
                         </div>
 						
 					</div>
@@ -34,29 +34,13 @@ const Contact = (props) => {
 					
 					{/* <!-- Contact info --> */}
 					<Col className="contact-info col-12 col-lg-4 res-margin">
-						
-                        <h5>
-                            <span className="icon icon-basic-geolocalize-05"></span> 
-                            Office Location
-                        </h5>
-                        <p>
-                            132 Dartmouth Street<br />
-                            Boston, Massachusetts 02156<br />
-                            United States
-                        </p>
-                        
-                        <h5>
-                            <span className="icon icon-basic-smartphone"></span> 
-                            Phone Number
-                        </h5>
-                        <p><a href="tel:16175723012">+1 617 572 3012</a></p>
-                        
+						   
                         <h5>
                             <span className="icon icon-basic-mail"></span> 
                             Email Address
                         </h5>
                         <p>
-                            <a href="mailto:email@sitename.com">email@sitename.com</a>
+                            <a href="mailto:developer.vestly@gmail.com">developer.vestly@gmail.com</a>
                         </p>
                         
                         <h5>
