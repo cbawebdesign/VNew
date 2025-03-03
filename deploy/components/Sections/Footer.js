@@ -27,9 +27,6 @@ export default class Footer extends Component {
 									<p className="footer-logo">
 										<img src="/images/logo-white.png" alt="Naxos" data-rjs="2" />
 									</p>
-									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.
-									</p>
 									
 									{/* <!-- Social links --> */}
 									<div className="footer-social">
@@ -49,11 +46,9 @@ export default class Footer extends Component {
 									<h6>Useful Links</h6>
 									
 									<ul className="footer-menu">
-										<li><a href="#">Support</a></li>
-										<li><a href="#">Privacy Policy</a></li>
-										<li><a href="#">Terms &amp; Conditions</a></li>
-										<li><a href="#">Affiliate Program</a></li>
-										<li><a href="#">Careers</a></li>
+										<li><a href="/user">User Account</a></li>
+										<li><a href="/privacy-policy">Privacy Policy</a></li>
+										
 									</ul>
 									
 								</div>
@@ -62,16 +57,6 @@ export default class Footer extends Component {
 							{/* <!-- Product help --> */}
 							<Col className="col-12 col-md-6 col-lg-3 res-margin">
 								<div className="widget">
-									
-									<h6>Product Help</h6>
-									
-									<ul className="footer-menu">
-										<li><a href="#">FAQ</a></li>
-										<li><a href="#">Reviews</a></li>
-										<li><a href="#">Features</a></li>
-										<li><a href="#">Feedback</a></li>
-										<li><a href="#">API</a></li>
-									</ul>
 									
 								</div>
 							</Col>
@@ -104,7 +89,7 @@ export default class Footer extends Component {
 								
 								{/* <!-- Text --> */}
 								<p className="copyright text-center">
-									Copyright © 2024 <a href="#" target="_blank">Naxos</a>. All Rights Reserved.
+									Copyright © 2025 <a href="#" target="_blank">Vestly</a>. All Rights Reserved.
 								</p>
 								
 							</Col>

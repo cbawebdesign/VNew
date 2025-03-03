@@ -29,11 +29,11 @@ const Header = (props) => {
                                 <div className="logo">
                                     
                                     <Link href="/" className="navbar-brand navbar-brand1">
-                                        <img src="/images/logo-white.png" srcSet={`/images/logo-white@2x.png 2x`} alt="Naxos" />
+                                        <img src="/images/logo-white.png" srcSet={`/images/logo-white@2x.png 2x`} alt="Vestly" />
                                     </Link>
 
                                     <Link href="/" className="navbar-brand navbar-brand2">
-                                        <img src="/images/logo.png" srcSet={`/images/logo@2x.png 2x`} alt="Naxos" />
+                                        <img src="/images/logo.png" srcSet={`/images/logo@2x.png 2x`} alt="Vestly" />
                                     </Link>
                                 
                                 </div>
@@ -71,30 +71,20 @@ const Header = (props) => {
                                         </Link>
                                     </li>
                                     
-                                    <li className="nav-item">
-                                        <Link href="/#features" className="nav-link js-scroll-trigger">
-                                            <span>Features</span>
-                                        </Link>
-                                    </li>
+                                 
+                                    
+                              
                                     
                                     <li className="nav-item">
-                                        <Link href="/#screenshots" className="nav-link js-scroll-trigger">
-                                            <span>Screenshots</span>
+                                        <Link href="/privacy-policy" className={props.nav !== undefined && props.nav==="privacy-policy" ? 'nav-link js-scroll-trigger active' : 'nav-link js-scroll-trigger'}>
+                                            <span>Privacy Policy</span>
                                         </Link>
                                     </li>
-                                    
                                     <li className="nav-item">
-                                        <Link href="/#support" className="nav-link js-scroll-trigger">
-                                            <span>Support</span>
+                                        <Link href="/user" className={props.nav !== undefined && props.nav==="user" ? 'nav-link js-scroll-trigger active' : 'nav-link js-scroll-trigger'}>
+                                            <span>User Account</span>
                                         </Link>
                                     </li>
-                                    
-                                    <li className="nav-item">
-                                        <Link href="/contact" className={props.nav !== undefined && props.nav==="contact" ? 'nav-link js-scroll-trigger active' : 'nav-link js-scroll-trigger'}>
-                                            <span>Contact</span>
-                                        </Link>
-                                    </li>
-
                                     <li className="nav-item search-option">
                                         <a className="nav-link" href="#" onClick={handleSearch}>
                                             <i className="fas fa-search"></i>

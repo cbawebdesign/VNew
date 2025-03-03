@@ -22,8 +22,8 @@ const PageTitle = () => {
 					<Col className="col-12 text-center">
 						
 						{/* <!-- Title --> */}
-						<h1 className="blog-title">Contact</h1>
-						<p className="blog-info info">Connect with us</p>
+						<h1 className="blog-title">Privacy Policy</h1>
+						
 
 					</Col>
 				</Row>

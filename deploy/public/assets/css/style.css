@@ -1257,6 +1257,12 @@ section.parallax a:hover {
 	background:url("../images/bg-oval.png") bottom no-repeat;
 }
 
+.spacer {
+	min-height: 50px;
+}
+.spacer2 {
+	min-height:150px;
+}
 /*********************
     - 8. Clients -
 *********************/
@@ -3174,6 +3180,10 @@ header + .recent-post {
 
 .contact-form-result {
     display:none;
+}
+
+.privacy-margin {
+	margin: 50px 100px 50px 100px;
 }
 
 /**************************

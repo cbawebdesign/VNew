@@ -20,7 +20,7 @@ const SingleImage = () => {
 
 					{/* <!-- Content --> */}
 					<Col className="col-12 col-lg-6 res-margin">
-
+						<div className="spacer"></div>
 						{/* <!-- Banner text --> */}
 						<div className="banner-text">
 

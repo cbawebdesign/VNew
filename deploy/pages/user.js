@@ -2,10 +2,10 @@ import SingleImage from "../components/Intro/SingleImage";
 import Layout from "../components/Sections/Layout";
 import Loader from "../components/Sections/Loader";
 import Header from "../components/Sections/Header";
-import Clients from "../components/Sections//Clients";
+import Clients from "../components/Sections/Clients";
 import Features from "../components/Sections/Features";
 import ParallaxVideo from "../components/Sections/ParallaxVideo";
-import Services from "../components/Sections//Services";
+import Services from "../components/Sections/Services";
 import Overview from "../components/Sections/Overview";
 import Testimonials from "../components/Sections/Testimonials";
 import Counters from "../components/Sections/Counters";
@@ -22,27 +22,14 @@ import ToTop from "../components/Sections/ToTop";
 const Index = () => (
 
     <Layout 
-        pageTitle="Naxos - React Next JS App Landing Page Template" 
+        pageTitle="user" 
         colorSchema="/assets/colors/blue.css" 
     >
         <Loader />
-        <Header nav="home" />
-        <SingleImage />
-        {/*<Clients className="section-box bg-grey" />*/}
-        <Features />
-        <ParallaxVideo />
-        <Services serviceClassName="service-single" />
-        <Overview />
-        {/*<Testimonials />
-        <Counters />
-        <Team /> */}
-        <Screenshots className="bg-grey" />
-        <Support />
-        {/*<Subscribe />
-        <Blog />
-        <Pricing className="bg-grey" /> */}
-        <Contact />
-        <Footer />
+        <Header nav="user" />
+        <div className="spacer2"></div>
+        <Clients />
+      
         <ToTop />
     </Layout>
 

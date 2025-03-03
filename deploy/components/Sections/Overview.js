@@ -32,7 +32,7 @@ const Overview = (props) => {
 								{/* <!-- Content --> */}
 								<div className="content">
 									<h6 className="font-weight-bold mb-2 mt-0">Easy to Use</h6>
-									<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur</p>
+									<p>Vestly has a straightforward and simple UI designed for ease of use for beginners and pros alike</p>
 								</div>
 
 							</div>
@@ -45,8 +45,8 @@ const Overview = (props) => {
 
 								{/* <!-- Content --> */}
 								<div className="content">
-									<h6 className="font-weight-bold mb-2 mt-0">Monitor &amp; Manage</h6>
-									<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur</p>
+									<h6 className="font-weight-bold mb-2 mt-0">Competitive Learning Playground</h6>
+									<p>Utilize real-time stock information to practice your favorite trading strategies against your friends</p>
 								</div>
 
 							</div>
@@ -59,8 +59,8 @@ const Overview = (props) => {
 
 								{/* <!-- Content --> */}
 								<div className="content">
-									<h6 className="font-weight-bold mb-2 mt-0">Stay Connected</h6>
-									<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur</p>
+									<h6 className="font-weight-bold mb-2 mt-0">Win Real Prizes</h6>
+									<p>Performing well can grant you prizes ranging from Vestly Tokens to Apple AirPods & more!</p>
 								</div>
 
 							</div>
@@ -71,7 +71,7 @@ const Overview = (props) => {
 					
 					{/* <!-- Image --> */}
 					<Col className="col-12 col-lg-5 order-lg-first text-sm-center">
-						<img src="/images/overview/track-time.png" alt="" />
+						<img src="/images/overview/leaderboard2.PNG" alt="" />
 					</Col>
 					
 				</Row>
@@ -86,19 +86,19 @@ const Overview = (props) => {
 							
 						{/* <!-- Section title --> */}
 						<div className="section-title text-center text-lg-start">
-							<h3>Built For Your Daily Schedule</h3>
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. </p>
+							<h3>Our supportive sponsors</h3>
+							<p>Check out some of Vestly's supporters that bring special games and prizes to you</p>
 						</div>
 
 						{/* <!-- List --> */}
 						<ul className="overview-list">
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Ut fringilla est at nunc suscipit dictum. Nulla facilisi. Phasellus dignissim nibh eget imperdiet venenatis.</p>
+								<p><i className="fa-li fas fa-check"></i> TradeFundrr, a T3 Subsidiary Proprietary Trading Platform that believes in Vestly as an educational product.</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Nullam egestas tincidunt lectus, sagittis eros vestibulum in. Vestibulum finibus iaculis sagittis. Suspendisse viverra luctus.</p>
+								<p><i className="fa-li fas fa-check"></i> T3 Live is T3's online platform that offers trading education, market analysis, and access to professional traders!</p>
 							</li>
 
 							<li>
