@@ -116,6 +116,7 @@ Legitimate Interest (for running our business, provision of administration and I
 
 Consent
 
+We provide equities and crypto data from our data provider Polygon. This data is used only for simulated trading and does not represent real-time live quotes. The data provided through our Services is intended for educational and entertainment purposes only and should not be relied upon for actual trading decisions in financial markets. While we strive to ensure the accuracy of this information, we make no guarantees regarding its completeness, timeliness, or accuracy.
 5. Marketing and Advertising Practices
 We may reach out to you in different ways, for example, to tell you about new features, games, or sweepstakes on the App we think you’d be interested in, or to show you how to use a particular feature we think you may enjoy. However, you can also let us know that you’d rather not hear from us with this type of communication.
 

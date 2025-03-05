@@ -11,7 +11,7 @@ const PageTitle = () => {
     }, [parallax]);
 
     return (
-        <section className="page-title valign parallax" data-image="/images/parallax/contact.jpg" ref={parallax}>
+        <section className="page-title valign parallax" data-image="/images/parallax/single-image.jpg" ref={parallax}>
 			
 			{/* <!-- Overlay --> */}
 			<div className="overlay"></div>	
