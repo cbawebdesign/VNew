@@ -18,6 +18,7 @@ import Pricing from "../components/Sections/Pricing";
 import Contact from "../components/Sections/Contact";
 import Footer from "../components/Sections/Footer";
 import ToTop from "../components/Sections/ToTop";
+import PageTitle2 from "../components/Contact/PageTitle2";
 
 const Index = () => (
 
@@ -27,7 +28,7 @@ const Index = () => (
     >
         <Loader />
         <Header nav="user" />
-        <div className="spacer2"></div>
+        <PageTitle2/>
         <Clients />
       
         <ToTop />

@@ -16,8 +16,8 @@ const Overview = (props) => {
 							
 						{/* <!-- Section title --> */}
 						<div className="section-title text-center text-lg-start">
-							<h3>Track Time From Anywhere</h3>
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. </p>
+							<h3>Trade on the Go!</h3>
+							<p>Our user-friendly interface can be used to practice market moves wherever you are! </p>
 						</div>
 
 						{/* <!-- Items --> */}

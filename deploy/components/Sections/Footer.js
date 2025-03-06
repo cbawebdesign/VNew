@@ -68,8 +68,8 @@ export default class Footer extends Component {
 									<h6>Download</h6>
 									
 									<div className="button-store">
-										<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 mb-sm-3"><i className="fab fa-google-play"></i><p>Available on<span>Google Play</span></p></a>
-										<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0"><i className="fab fa-apple"></i><p>Download on<span>App Store</span></p></a>
+										<a href="https://play.google.com/store/apps/details?id=com.T3.Vestly&utm_source=na_Med" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 mb-sm-3"><i className="fab fa-google-play"></i><p>Available on<span>Google Play</span></p></a>
+										<a href="https://apps.apple.com/us/app/vestly-invest-learn-win/id998405251" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0"><i className="fab fa-apple"></i><p>Download on<span>App Store</span></p></a>
 									</div>
 									
 								</div>

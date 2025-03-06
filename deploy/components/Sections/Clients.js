@@ -10,7 +10,7 @@ const Clients = (props) => {
     return (
         <section id="clients" className={props.className}>
             <Container>
-                <Row className="justify-content-md-center">
+                <Row className="justify-content-md-left">
                     <Col md={8}>
                         <h2>How to deactivate your account</h2>
                         <p>
