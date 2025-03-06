@@ -62,8 +62,14 @@ const Screenshots = (props) => {
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/mockup3.png">
-                                        <img src="/images/screenshots/mockup3.png" alt="" />
+                                    <a href="/images/screenshots/mockup11.png">
+                                        <img src="/images/screenshots/mockup11.png" alt="" />
+                                    </a>
+                                </SwiperSlide>
+
+                                <SwiperSlide className="item">
+                                    <a href="/images/screenshots/mockup12.png">
+                                        <img src="/images/screenshots/mockup12.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
@@ -80,26 +86,20 @@ const Screenshots = (props) => {
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/mockup1.png">
-                                        <img src="/images/screenshots/mockup1.png" alt="" />
-                                    </a>
-                                </SwiperSlide>
-
-                                <SwiperSlide className="item">
                                     <a href="/images/screenshots/mockup9.png">
                                         <img src="/images/screenshots/mockup9.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/mockup7.png">
-                                        <img src="/images/screenshots/mockup7.png" alt="" />
+                                    <a href="/images/screenshots/mockup8.png">
+                                        <img src="/images/screenshots/mockup8.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/mockup8.png">
-                                        <img src="/images/screenshots/mockup8.png" alt="" />
+                                    <a href="/images/screenshots/mockup7.png">
+                                        <img src="/images/screenshots/mockup7.png" alt="" />
                                     </a>
                                 </SwiperSlide>
                             </Swiper>

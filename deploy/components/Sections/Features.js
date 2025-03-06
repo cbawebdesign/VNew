@@ -87,7 +87,7 @@ const Features = (props) => {
 					{/* <!-- Center --> */}
 					<Col className="col-12 col-lg-4 d-none d-lg-block"> 
 						<div className="features-thumb text-center">
-							<img src="/images/features/vestly-mockup1.png" alt="" />
+							<img src="/images/features/mockup1.png" alt="" />
 						</div>
 					</Col>
 					
