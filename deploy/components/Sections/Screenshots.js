@@ -56,50 +56,50 @@ const Screenshots = (props) => {
                                 modules={[Autoplay, Pagination]}
                             >
                                  <SwiperSlide className="item">
-                                    <a href="/images/screenshots/login.PNG">
-                                        <img src="/images/screenshots/login.PNG" alt="" />
+                                    <a href="/images/screenshots/mockup4.png">
+                                        <img src="/images/screenshots/mockup4.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/nvda/png">
-                                        <img src="/images/screenshots/nvda.png" alt="" />
+                                    <a href="/images/screenshots/mockup3.png">
+                                        <img src="/images/screenshots/mockup3.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/leaderboard.png">
-                                        <img src="/images/screenshots/leaderboard.png" alt="" />
+                                    <a href="/images/screenshots/mockup6.png">
+                                        <img src="/images/screenshots/mockup6.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/news.PNG">
-                                        <img src="/images/screenshots/news.PNG" alt="" />
+                                    <a href="/images/screenshots/mockup5.png">
+                                        <img src="/images/screenshots/mockup5.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/inspiration.PNG">
-                                        <img src="/images/screenshots/inspiration.PNG" alt="" />
+                                    <a href="/images/screenshots/mockup1.png">
+                                        <img src="/images/screenshots/mockup1.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/rocket.PNG">
-                                        <img src="/images/screenshots/rocket.PNG" alt="" />
+                                    <a href="/images/screenshots/mockup9.png">
+                                        <img src="/images/screenshots/mockup9.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/prize.png">
-                                        <img src="/images/screenshots/prize.png" alt="" />
+                                    <a href="/images/screenshots/mockup7.png">
+                                        <img src="/images/screenshots/mockup7.png" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/prize3.png">
-                                        <img src="/images/screenshots/prize3.png" alt="" />
+                                    <a href="/images/screenshots/mockup8.png">
+                                        <img src="/images/screenshots/mockup8.png" alt="" />
                                     </a>
                                 </SwiperSlide>
                             </Swiper>

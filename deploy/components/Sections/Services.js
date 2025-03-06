@@ -50,10 +50,10 @@ const Services = (props) => {
 					<Col className="col-12 col-lg-4 res-margin wow fadeInUp" data-wow-offset="10" data-wow-duration="1s" data-wow-delay="0.6s">
 						<div className={props.serviceClassName}>
 							
-							<div className="icon icon-basic-paperplane"></div>
+							<div className="icon icon-arrows-diagonal"></div>
 							
 							<h5>Start Trading!</h5>
-							<p>Use your favorite daytrading techniques to outperform your competition over the duration of the game!</p>
+							<p>Use your favorite daytrading techniques to outperform your competition!</p>
 						
 						</div>
 					</Col>

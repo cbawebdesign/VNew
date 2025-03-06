@@ -1106,9 +1106,12 @@ section.parallax a:hover {
 }
 
 /* Banner image */
+
 .banner-image {
 	position:relative;
 	float:right;
+	max-width: 50%;
+	max-height: auto;
 }
 
 .banner-image-center {
@@ -1636,6 +1639,12 @@ section.parallax a:hover {
 .overview-list .fa-li {
 	width: 16px;
 }
+
+.img-responsive {
+	max-width: 70%;
+	max-height: auto;
+}
+
 
 /***************************
     - 13. Testimonials -

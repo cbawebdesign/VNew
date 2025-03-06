@@ -22,7 +22,7 @@ const Overview = (props) => {
 
 						{/* <!-- Items --> */}
 						<div className="overview-item">
-
+							
 							{/* <!-- Item 1 --> */}
 							<div className="overview-box d-flex flex-wrap">
 
@@ -71,7 +71,7 @@ const Overview = (props) => {
 					
 					{/* <!-- Image --> */}
 					<Col className="col-12 col-lg-5 order-lg-first text-sm-center">
-						<img src="/images/overview/leaderboard2.PNG" alt="" />
+						<img src="/images/overview/mockup3.png" alt="" className="img-responsive" />
 					</Col>
 					
 				</Row>
@@ -124,7 +124,7 @@ const Overview = (props) => {
 					
 					{/* <!-- Image --> */}
 					<Col className="col-12 col-lg-5 offset-lg-1 text-sm-center">
-						<img src="/images/overview/daily-schedule.png" alt="" />
+						<img src="/images/overview/mockup8.png" alt="" className="img-responsive" />
 					</Col>
 					
 				</Row>

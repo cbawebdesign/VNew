@@ -40,8 +40,8 @@ const Index = () => (
         <Support />
         {/*<Subscribe />
         <Blog />
-        <Pricing className="bg-grey" /> */}
-        <Contact />
+        <Pricing className="bg-grey" /> 
+        <Contact />*/}
         <Footer />
         <ToTop />
     </Layout>
