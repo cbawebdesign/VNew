@@ -86,31 +86,31 @@ const Overview = (props) => {
 							
 						{/* <!-- Section title --> */}
 						<div className="section-title text-center text-lg-start">
-							<h3>Our supportive sponsors</h3>
-							<p>Check out some of Vestly's supporters that bring special games and prizes to you</p>
+							<h3>Key Features of Vestly</h3>
+							<p>Check out some of the ideas that brought Vestly to life!</p>
 						</div>
 
 						{/* <!-- List --> */}
 						<ul className="overview-list">
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> TradeFundrr, a T3 Subsidiary Proprietary Trading Platform that believes in Vestly as an educational product.</p>
+								<p><i className="fa-li fas fa-check"></i> <b>Real Market Data:</b> Practice with actual stock market information updated in real-time for an authentic learning experience.</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> T3 Live is T3's online platform that offers trading education, market analysis, and access to professional traders!</p>
+								<p><i className="fa-li fas fa-check"></i> <b>Risk-Free Learning:</b> Develop your trading skills without risking real money while still experiencing market dynamics</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Suspendisse at volutpat magna, vitae mattis metus. Integer posuere eu erat at pharetra. Aliquam ut pharetra diam.</p>
+								<p><i className="fa-li fas fa-check"></i> <b>Social Competition:</b> Challenge friends or join public competitions to test your strategies against other players.</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Donec luctus, sem vel molestie efficitur, metus libero mollis neque, sed scelerisque arcu nisl eu lectus.</p>
+								<p><i className="fa-li fas fa-check"></i> <b>Performance Analytics:</b> Track your trading performance with detailed statistics points system to identify strengths and areas for improvement.</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Fusce neque magna, fringilla ac vulputate at, venenatis a eros. Donec accumsan commodo tortor sed fringilla.</p>
+								<p><i className="fa-li fas fa-check"></i> <b>Educational Resources:</b> Access tutorials, strategy guides, and market insights to improve your trading knowledge.</p>
 							</li>
 
 						</ul>
@@ -124,7 +124,7 @@ const Overview = (props) => {
 					
 					{/* <!-- Image --> */}
 					<Col className="col-12 col-lg-5 offset-lg-1 text-sm-center">
-						<img src="/images/overview/mockup7.png" alt="" className="img-responsive" />
+						<img src="/images/overview/mockup21.png" alt="" className="img-responsive" />
 					</Col>
 					
 				</Row>
